@@ -1,0 +1,56 @@
+.card
+{
+    min-width: 80px;
+    max-width: 300px;
+
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.button1
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+position: relative;
+left: 7.5%;
+right: 7.5%;
+top: 86.35%;
+bottom: 3.72%;
+
+background: #00ACDC;
+border-radius: 5px;
+}
+.picture_box
+{
+/*margin: 0px 5px 45px;
+*/
+}
+
+.picture
+{
+    width: 100%;
+}
+
+.title
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: auto;
+line-height: 15px;
+color: #000000;
+position: relative;
+left: 7.5%;
+right: 7.5%;
+top: 86.35%;
+bottom: 3.72%;
+}
